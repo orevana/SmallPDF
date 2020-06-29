@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ExchangeRateEUR",
+    "app": "https://v6.exchangerate-api.com/v6/f2c364cb2b79dd330e6ff886/latest/EUR"
+  },
+  {
+    "name": "ExchangeRateUSD",
+    "app": "https://v6.exchangerate-api.com/v6/f2c364cb2b79dd330e6ff886/latest/USD"
+  }
+]
+ 
